@@ -1,10 +1,10 @@
-# 📉 Customer Churn Prediction
+#  Customer Churn Prediction
 
 This project builds a machine learning model to predict customer churn for Interconnect, a telecom provider. The company wants to proactively identify customers likely to leave and offer them retention incentives. The model is trained using personal, contractual, and service usage data.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Predict churn probability for each customer based on their:
 - Contract type
@@ -14,7 +14,7 @@ Predict churn probability for each customer based on their:
 
 ---
 
-## 🗂️ Dataset Description
+##  Dataset Description
 
 The data is composed of four CSV files:
 
@@ -28,7 +28,7 @@ All datasets are linked using `customerID`. The target column is:
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 1. **Data Preparation**
    - Merge datasets using `customerID`
@@ -50,7 +50,7 @@ All datasets are linked using `customerID`. The target column is:
 
 ---
 
-## 📊 Key Features Used
+##  Key Features Used
 
 - Contract length
 - Type of Internet & phone service
@@ -61,7 +61,7 @@ All datasets are linked using `customerID`. The target column is:
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python
 - pandas
@@ -72,13 +72,13 @@ All datasets are linked using `customerID`. The target column is:
 
 ---
 
-## ✅ Status
+##  Status
 
 ✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Predictive Modeling & Classification*
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 customer-churn-prediction/
 │
@@ -94,7 +94,7 @@ customer-churn-prediction/
 
 ---
 
-## 📌 Author
+##  Author
 
 David Villanueva  
 [LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  
