@@ -72,12 +72,6 @@ All datasets are linked using `customerID`. The target column is:
 
 ---
 
-##  Status
-
-✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Predictive Modeling & Classification*
-
----
-
 ##  Project Structure
 ```
 customer-churn-prediction/
